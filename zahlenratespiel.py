@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import random
-import math
+#import math  #du brauchst math (noch) nicht
 import easygui
 leon = True
 anfangszahl = 1
